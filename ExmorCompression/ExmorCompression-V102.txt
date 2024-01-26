@@ -1,0 +1,10 @@
+Release Notes:
+
+V1.0.2
+
+## Changed ##
+
+-- Compressed Reinforced Iron Plate now needs 100 for a compressed Item as per stack size
+-- Uncompressed Reinforced Iron Plate now gives 100 Reinforced Iron Plate instead of 50
+-- Compression token cost increased to 50 Smart Plating for 1 Token (May change in future)
+-- Changed Timing for Compression drive from 1 sec to 60 sec
