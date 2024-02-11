@@ -1,0 +1,29 @@
+Release Notes:
+
+## V1.0.3
+
+
+## Player Side -----------------------------------------------------------
+---
+## Changed : 
+
+-- Diamond Recipe from 10 Compacted Coal to [20] Coal to make [1] Diamond
+
+-- Aluminium Dust wont show in the shop till its unlocked in [Tier 7 : Dusts of the world]
+
+---
+## Added : ##
+
+Diamond Alternate Recipe making [5] Diamond from [10] Compacted Coal
+
+___
+## Fixed :
+
+-- Changed Uncompressed Concrete to show correct name in work bench instead of Uncompressed Iron Rods
+
+___
+## Dev Side ----------------------------------------------------------------
+
+## Changed :
+
+-- File Name for now called [Desc_ProcessedDiamond] instead of [Desc_Diamond1]

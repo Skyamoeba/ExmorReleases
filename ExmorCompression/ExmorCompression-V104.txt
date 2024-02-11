@@ -1,0 +1,41 @@
+Release Notes:
+
+## V1.1.4
+
+
+## Player Side -----------------------------------------------------------
+---
+## Changed : 
+
+Token to be inkeeping with the mod.
+You now able to use space elevator parts to make tier tokens to then sink them for Shop Points! 
+
+
+---
+## Added : 
+
+Compressed Ores
+Compressed Items Added Resource Shop
+
+
+___
+## Fixed :
+
+Quartz Showing in Wrong Machine
+___
+## Dev Side ----------------------------------------------------------------
+
+## Changed :
+Few Typos
+New Mod Logo
+
+___
+## Added : 
+
+___
+### Fixed :
+
+[TX_Compressed_Shared_N] Texture
+
+___
+## Feed Back Changes ------------------------------------------------------
