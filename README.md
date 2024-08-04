@@ -2,10 +2,9 @@
 Release of all the Exmor Family Of Mods.
 
 
-# Exmor Horizon - V1.0.2
+# Exmor Horizon - V1.0.2 (End Of Life Due to Being Split into 2 Sepwrate Mods)
 
-<<<<<<< HEAD
-# Exmor Compression - V1.0.0
-=======
 # Exmor Compression - V1.0.4
->>>>>>> origin/Exmor-Horizon
+
+# Exmor Nuclear Expansion - V0.0.4
+
